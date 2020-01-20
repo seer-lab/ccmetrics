@@ -79,6 +79,7 @@ redefine statement
     |   [opt statementlabel] [while_statement]
     |   [opt statementlabel] [do_statement]
     |   [opt statementlabel] [for_statement]
+	|   [opt statementlabel] [for_in_statement]
     |   [opt statementlabel] [break_statement]
     |   [opt statementlabel] [continue_statement]
     |   [opt statementlabel] [return_statement]
